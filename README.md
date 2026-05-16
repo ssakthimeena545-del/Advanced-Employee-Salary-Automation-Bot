@@ -21,4 +21,4 @@ Workflow
 4. Create output report
 
 Output
-The project generates a CSV file with processed employee salary details.
+- The project generates a CSV file with processed employee salary details.
