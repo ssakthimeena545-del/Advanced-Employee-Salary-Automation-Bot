@@ -1,6 +1,8 @@
 Employee Salary Automation Bot
+
 About Project
 This is a UiPath automation project created for processing employee salary details using Excel files.
+
 Features
 - Read employee data from Excel
 - Process salary details
